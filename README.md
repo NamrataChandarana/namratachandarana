@@ -2,7 +2,7 @@
 
 - I'm a 20-year-old Engineering student with a strong ambition to develop innovative products.
 - Stay updated with my journey on [Instagram](https://www.instagram.com/developer_namrata), [LinkedIn](https://www.linkedin.com/in/namratachandarana) and [Twitter](https://twitter.com/Namrata20_).
-- Learning MERN Web Development.
+- Learning MERN stack Web Development.
 
 ### 📥Contact
 
