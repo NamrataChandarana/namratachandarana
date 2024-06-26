@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">Full stack web dev | freelancer</h5>
+<h3 align="center">Full stack web dev | freelancer</h3>
 
 ###
 
@@ -69,8 +69,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">🌐 Socials:</h2>
 
